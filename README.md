@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-<img src="https://i.imgur.com/RfPtXpj.png" width="50%">
+<img src="https://i.imgur.com/vUOtsOa.png" width="50%">
 </p>
 <br/>
 <p align="center">
@@ -9,6 +9,7 @@
 <h2 align="center">A training environment for testing Git commands</h2>
 <p align="center">
 </p>
+<br/>
 
 ## Lessons Learned:
 - Establishing local branches
